@@ -395,6 +395,10 @@ p {
 #projects .projects-header h1 {
 	margin-bottom: 50px;
 }
+#projects .project-info a {
+    color: white;
+    text-decoration: underline;
+}
 #projects .all-projects {
 	display: flex;
 	align-items: center;
