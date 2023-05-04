@@ -150,7 +150,7 @@ p {
   transform: translate(-50%, -50%) scale(1);
   letter-spacing: initial;
 }
-#header .nav-list ul:hover a {
+#header .nav-list ul a:hover{
   color: crimson;
 }
 #header .hamburger {
